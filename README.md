@@ -6,5 +6,15 @@ Basic Config:
 
 **add to browser extension:** sudo apt install gnome-shell-extensions
 
+**update**: sudo apt-get update
+
+**to upgrade**: sudo apt-get upgrade
+
+Themes:
+-------
+**Site:** gnome-look.org
+
+
+
 
 
