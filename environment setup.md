@@ -46,3 +46,6 @@ To run C/C++ file in Sublime Text Editor:
 JDK setup:
 ----------
 ```sudo apt install openjdk-18-jdk```
+
+Anaconda Setup in Ubuntu:
+https://www.geeksforgeeks.org/how-to-install-anaconda-on-ubuntu-20-04/
