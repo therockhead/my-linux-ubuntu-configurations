@@ -75,6 +75,10 @@ touch  (to create a file) for example: "touch 1.txt" creates 1.txt file in the a
 
 ls (to view list of files/folders in a specific directory)
 
+Speed-Up Apps Launch Time:
+---------------------------
+**command:** ```sudo apt install preload```
+
 
 
 
