@@ -27,7 +27,8 @@ Basic Config:
 **to view system activity monitoring**: ```sudo htop``` 
 
 My Coding Environments Setups: 
-
+------------------------------
+https://github.com/therockhead/my-linux-ubuntu-configurations/blob/main/environment%20setup.md
 
 Firewall setups:
 ----------------
