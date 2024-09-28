@@ -41,3 +41,8 @@ To run C/C++ file in Sublime Text Editor:
 1. ```Alt+3``` to open three windows side by side
 2. create ```inputf.in``` and ```outputf.in``` files
 3. paste the input in ```inputf.in``` file and go back to the code file and press ```Ctrl+Shift+B``` to build the file
+
+
+JDK setup:
+----------
+```sudo apt install openjdk-18-jdk```
