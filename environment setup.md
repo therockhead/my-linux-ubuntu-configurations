@@ -47,5 +47,7 @@ JDK setup:
 ----------
 ```sudo apt install openjdk-18-jdk```
 
+Python:
+-------
 Anaconda Setup in Ubuntu:
 https://www.geeksforgeeks.org/how-to-install-anaconda-on-ubuntu-20-04/
