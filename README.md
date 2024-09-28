@@ -20,6 +20,13 @@ Basic Config:
 
 **to install media codecs/extra drivers** ```sudo apt install ubuntu-restricted-extras```
 
+**neofetch-detailed machine info**: ```sudo apt install neofetch htop clang nodejs gcc git```
+
+**access neofetch**: ```neofetch```
+
+**to view system activity monitoring**: ```sudo htop``` 
+
+
 Firewall setups:
 ----------------
 **to check firewall status**: ```sudo systemctl status ufw```
