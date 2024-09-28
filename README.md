@@ -2,13 +2,21 @@ UBUNTU LINUX **22.04 LTS JAMMY JELLY FISH**
 
 Basic Config:
 --------------
-**update**: ```sudo apt-get update```
+**update**:
 
-**to upgrade**: ```sudo apt-get upgrade```
+```sudo apt-get update```
 
-**gnome-tweaks**: ```sudo apt install gnome-tweaks -y```
+**to upgrade**: 
 
-**add to browser extension:** ```sudo apt install gnome-shell-extensions```
+```sudo apt-get upgrade```
+
+**gnome-tweaks**: 
+
+```sudo apt install gnome-tweaks -y```
+
+**add to browser extension:** 
+
+```sudo apt install gnome-shell-extensions```
 
 Themes:
 -------
@@ -29,13 +37,22 @@ ls (to view list of files/folders in a specific directory)
 
 GCC/G++ compilers:
 -------------------------
-**install command:** ```sudo apt install build-essential```
+**install command:** 
 
-**check gcc**: ```gcc --version```
+```sudo apt install build-essential```
 
-**check g++**: ```g++ --version```
+**check gcc**: 
 
-**compile a C file**: ``` gcc test.c -o test ```
+```gcc --version```
+
+**check g++**: 
+
+```g++ --version```
+
+**compile a C file**: 
+
+``` gcc test.c -o test ```
+
 (-o is used to create a binary test file from the C file named "test.c)
 
 then, **to run the binary file**: ./test (which runs the code in the terminal)
@@ -45,7 +62,7 @@ then, **to run the binary file**: ./test (which runs the code in the terminal)
 
 c++ 14 build file for sublime (Linux):
 --------------------------------------
-
+tools->build system->create new one->paste->save as "c++14.sublime.build"
 ```
 
 {
