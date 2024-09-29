@@ -47,6 +47,12 @@ JDK setup:
 ----------
 ```sudo apt install openjdk-18-jdk```
 
+
+Eclipse IDE for Java:
+--------------------
+```https://linuxconfig.org/ubuntu-22-04-eclipse-installation``` follow the tutorial from the page! :)
+
+
 Python:
 -------
 Anaconda Setup in Ubuntu:
