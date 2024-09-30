@@ -26,6 +26,11 @@ Basic Config:
 
 **to view system activity monitoring**: ```sudo htop``` 
 
+MINIMIZE WINDOW ON CLICK:
+-------------------------
+**To activate**: ```gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'```
+**To deactivaate**: ```gsettings reset org.gnome.shell.extensions.dash-to-dock click-action```
+
 My Coding Environments Setups: 
 ------------------------------
 https://github.com/therockhead/my-linux-ubuntu-configurations/blob/main/environment%20setup.md
