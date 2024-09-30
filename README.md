@@ -29,6 +29,7 @@ Basic Config:
 MINIMIZE WINDOW ON CLICK:
 -------------------------
 **To activate**: ```gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'```
+
 **To deactivaate**: ```gsettings reset org.gnome.shell.extensions.dash-to-dock click-action```
 
 My Coding Environments Setups: 
