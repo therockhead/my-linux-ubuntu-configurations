@@ -10,6 +10,18 @@ Basic Config:
 
 ```sudo apt-get upgrade```
 
+**to fix broken packages**:
+
+``` sudo apt update --fix-missing```
+
+```sudo apt install -f```
+
+```sudo dpkg --configure -a```
+
+```sudo dpkg -l | grep ^..R```
+
+lastly- ```sudo apt clean``` & ```sudo apt update```
+
 **gnome-tweaks**: 
 
 ```sudo apt install gnome-tweaks -y```
