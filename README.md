@@ -44,6 +44,11 @@ MINIMIZE WINDOW ON CLICK:
 
 **To deactivaate**: ```gsettings reset org.gnome.shell.extensions.dash-to-dock click-action```
 
+REMOVE SNAP FIREFOX & INSTALL DEBIAN PACK:
+-------------------------------------------
+
+https://gist.github.com/jfeilbach/78d0ef94190fb07dee9ebfc34094702f
+
 My Coding Environments Setups: 
 ------------------------------
 https://github.com/therockhead/my-linux-ubuntu-configurations/blob/main/environment%20setup.md
