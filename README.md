@@ -38,6 +38,11 @@ lastly- ```sudo apt clean``` & ```sudo apt update```
 
 **to view system activity monitoring**: ```sudo htop``` 
 
+**Install Google Fonts:**
+```
+https://gist.github.com/lightonphiri/5811226a1fba0b3df3be73ff2d5b351c?permalink_comment_id=4812605
+```
+
 MINIMIZE WINDOW ON CLICK:
 -------------------------
 **To activate**: ```gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'```
@@ -48,6 +53,7 @@ REMOVE SNAP FIREFOX & INSTALL DEBIAN PACK:
 -------------------------------------------
 
 https://gist.github.com/jfeilbach/78d0ef94190fb07dee9ebfc34094702f
+
 
 My Coding Environments Setups: 
 ------------------------------
