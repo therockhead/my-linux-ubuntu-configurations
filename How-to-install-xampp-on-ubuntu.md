@@ -24,10 +24,11 @@ Using the GUI manager:
 sudo ./manager-linux-x64.run
 ```
 Uninstalling Xampp in Linux
+- To Uninstall Xampp, open a new terminal window and move into the installation folder, here the "/opt/lampp" folder.
+- Xampp tool ships with beginner friendly uninstaller executable, so that you don't have to mess with manual deletion of files and folders.
+- Run the uninstall executable with sudo privilege to initiate the uninstallation process.
+- Use the below command to uninstall the program, make sure you are in the intended directory.
 
-    To Uninstall Xampp, open a new terminal window and move into the installation folder, here the "/opt/lampp" folder.
-    Xampp tool ships with beginner friendly uninstaller executable, so that you don't have to mess with manual deletion of files and folders.
-    Run the uninstall executable with sudo privilege to initiate the uninstallation process.
-    Use the below command to uninstall the program, make sure you are in the intended directory.
-    ``` sudo ./uninstall
-    ```
+```
+sudo ./uninstall
+```
